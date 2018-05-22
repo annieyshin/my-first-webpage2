@@ -1,3 +1,8 @@
+body {
+  text-align: center;
+  background-color: #B5EBF3;
+}
+
 h1 {
   color: #0000ff;
   text-align: center;
@@ -13,12 +18,27 @@ h2 {
   font-family: sans-serif;
 }
 
+h3 {
+  f
+}
 p {
   font-family: sans-serif;
+
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
   font-family: sans-serif;
+}
+
+img {
+
+  height:194px;
+  width: 290px;
+
+}
+
+div {
+  text-align: center;
 }
